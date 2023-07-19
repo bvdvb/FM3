@@ -36,16 +36,6 @@ echo GridView::widget([
 
 <div class="site-index">
 
-
-
-
-
-
-
-
-
-
-
 <?php
 echo '<label class="control-label">Provinces</label>';
 echo Select2::widget([
