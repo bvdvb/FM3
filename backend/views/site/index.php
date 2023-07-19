@@ -47,15 +47,15 @@ echo GridView::widget([
 
 
 <?php
-// echo '<label class="control-label">Provinces</label>';
-// echo Select2::widget([
-//     'name' => 'state_10',
-//     'data' => ['aa','bb'],
-//     'options' => [
-//         'placeholder' => 'Select provinces ...',
-//         'multiple' => true
-//     ],
-// ]);
+echo '<label class="control-label">Provinces</label>';
+echo Select2::widget([
+    'name' => 'state_10',
+    'data' => ['aa','bb'],
+    'options' => [
+        'placeholder' => 'Select provinces ...',
+        'multiple' => true
+    ],
+]);
 
 
 ?>

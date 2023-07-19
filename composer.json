@@ -11,6 +11,7 @@
         "wiki": "https://www.yiiframework.com/wiki/",
         "irc": "irc://irc.freenode.net/yii",
         "source": "https://github.com/yiisoft/yii2"
+        
     },
     "minimum-stability": "stable",
     "require": {
@@ -24,8 +25,7 @@
         "yii2mod/yii2-rbac": "*",
         "kartik-v/yii2-widgets": "dev-master",
         "kartik-v/yii2-grid": "dev-master",
-        "kartik-v/yii2-bootstrap5-dropdown": "@dev"
-    
+        "kartik-v/yii2-bootstrap5-dropdown": "@dev"        
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
