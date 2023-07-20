@@ -71,10 +71,10 @@
                             ['label' => 'Users', 'iconStyle' => 'fas', 'icon' => 'user', 'url' => ['/admin/user']],
                             ['label' => 'Groups/roles', 'iconStyle' => 'fas', 'icon' => 'users', 'url' => ['/admin/role']],
                             ['label' => 'Permission', 'iconStyle' => 'fas', 'icon' => 'key', 'url' => ['/admin/permission']],
-                            ['label' => 'Admin', 'iconStyle' => 'fas', 'icon' => 'user-lock"></i>', 'url' => ['/admin']],
+                            ['label' => 'Admin', 'iconStyle' => 'fas', 'icon' => 'user-lock', 'url' => ['/admin']],
                             ['label' => 'Route', 'iconStyle' => 'fas', 'icon' => 'route', 'url' => ['/admin/route']],
                             ['label' => 'Menu', 'iconStyle' => 'fas', 'icon' => 'bars', 'url' => ['/admin/Menu']],
-                            ['label' => 'Assignment', 'iconStyle' => 'fas', 'icon' => 'id-badge', 'url' => ['/admin/route']]
+                            ['label' => 'My user rights', 'iconStyle' => 'fas', 'icon' => 'id-badge', 'url' => ['/user-right']]
                         ]
                     ],
                     [
